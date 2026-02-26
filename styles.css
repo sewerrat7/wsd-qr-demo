@@ -1,0 +1,19 @@
+body {
+margin:0;
+font-family:Arial;
+background:#0b0b0d;
+color:white;
+}
+.topbar{
+display:flex;
+justify-content:space-between;
+padding:20px;
+border-bottom:1px solid #333;
+}
+.brand-title{font-weight:bold;font-size:18px;}
+.brand-sub{color:#aaa;font-size:12px;}
+.pill{border:1px solid gold;color:gold;padding:5px 10px;border-radius:10px;}
+.container{max-width:900px;margin:auto;padding:20px;}
+.card{background:#15151b;border:1px solid #333;border-radius:10px;padding:20px;}
+table{width:100%;border-collapse:collapse;}
+th,td{padding:10px;border-bottom:1px solid #333;}
